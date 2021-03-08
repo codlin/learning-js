@@ -1,0 +1,8 @@
+html {
+    width: 600px;
+    align-content: center;
+}
+.title {
+    background-color: aqua;
+    font-size: large;
+}
